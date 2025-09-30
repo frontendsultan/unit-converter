@@ -61,7 +61,7 @@ border-width: 2px;
 border-radius: 5px;
 border: 2px solid #B295FF;
 background-color: transparent;
-width:117px;
+max-width:300px;
 height: 83px;
 padding:40px 0px 40px 20px;
 overflow: scroll;
@@ -143,6 +143,7 @@ letter-spacing: 0%;
 text-align: center;
 padding-block: 0px;
 margin-block: 0px;
+text-transform: capitalize;
 color:var(--text-color);
 
 }
